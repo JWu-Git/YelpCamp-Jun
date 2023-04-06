@@ -16,7 +16,7 @@ This project was developed as part of the Web Developer Bootcamp course on Udemy
 To run this project, follow these steps:
 
 - Clone this repository:
-git clone https://github.com/JWu-Git/YelpCamp.git
+git clone [url]
 - Install dependencies:
 npm install
 - Start the server:
