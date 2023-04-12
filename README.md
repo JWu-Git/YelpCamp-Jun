@@ -8,7 +8,7 @@ This website is currently deployed to and hosted on Heroku. It can be accessed a
 - CRUD (Create, Read, Update, Delete) functionality for campgrounds and comments
 - Flash messages for feedback
 - MapBox integration for location of campgrounds
-- Responsive design using Bootstrap 5
+- Responsive design using Bootstrap
 
 ## Installation
 To run this project, follow these steps:
@@ -37,8 +37,8 @@ YelpCamp was built using the following technologies:
 - Express.js
 - MongoDB
 - Passport.js
-- Bootstrap 5
-- MapBox API
+- Bootstrap
+- MapBox
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
