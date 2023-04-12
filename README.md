@@ -3,8 +3,6 @@ This is a Node.js web application that allows users to view and review campgroun
 
 This website is currently deployed to and hosted on Heroku. It can be accessed at https://boiling-stream-67780.herokuapp.com/.
 
-This project was developed as part of the Web Developer Bootcamp course on Udemy, taught by Colt Steele.
-
 ## Features
 - User authentication with Passport.js
 - CRUD (Create, Read, Update, Delete) functionality for campgrounds and comments
