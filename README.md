@@ -1,7 +1,7 @@
 # YelpCamp
-YelpCamp is a Node.js web application that allows users to view and review campgrounds. Users can create an account, add new campgrounds, add comments to existing campgrounds, and leave ratings for their favorite campgrounds.
+This is a Node.js web application that allows users to view and review campgrounds. Users can create an account, add new campgrounds, add comments to existing campgrounds, and leave ratings for their favorite campgrounds.
 
-I have YelpCamp hosted on Heroku. It can be accessed at https://boiling-stream-67780.herokuapp.com/.
+This website is currently deployed to and hosted on Heroku. It can be accessed at https://boiling-stream-67780.herokuapp.com/.
 
 This project was developed as part of the Web Developer Bootcamp course on Udemy, taught by Colt Steele.
 
